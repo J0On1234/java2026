@@ -1,4 +1,5 @@
-# 나의 꿈은,,,(commit x 4 -> push -> Git1 pull)
+# 나의 꿈은,,, 네트워크 엔지니어
+(commit x 4 -> push -> Git1 pull)
 # 갖고 싶은 것
 - 돈
 - 새 휴대폰
